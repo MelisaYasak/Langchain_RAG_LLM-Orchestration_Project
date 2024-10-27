@@ -1,2 +1,4 @@
 ./SetupProject/.env
 ./SetupProject/.venv
+./LangchainFirstProject/.env
+./LangchainFirstProject/.langchainfirstenv
